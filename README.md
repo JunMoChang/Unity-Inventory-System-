@@ -265,7 +265,7 @@ switch (currentSortType)
 
 ⭐ 如果这个项目对你有帮助，欢迎 Star！
 
-🐛 发现 Bug？[提交 Issue](https://github.com/YourUsername/Unity-Inventory-System/issues)
+🐛 发现 Bug？[提交 Issue](https://github.com/JunMoChang/Unity-Inventory-System/issues)
 
-💬 有问题？[开启讨论](https://github.com/YourUsername/Unity-Inventory-System/discussions)
+💬 有问题？[开启讨论](https://github.com/JunMoChang/Unity-Inventory-System/discussions)
 
