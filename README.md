@@ -1,6 +1,6 @@
 # Unity RPG 背包系统
 
-> 基于 Unity UGUI 实现的功能完整的 RPG 游戏背包系统，支持物品管理、自动分类、多维度排序
+> 基于 Unity UGUI 实现的功能完整的 RPG 游戏背包系统，支持物品管理、自动分类、排序
 
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -255,8 +255,6 @@ switch (currentSortType)
 
 ## 👤 作者
 
-**你的名字**
-
 - GitHub: [@JunMoChang](https://github.com/JunMoChang)
 - Email: 3484773855@qq.com
 - 博客: https://blog.csdn.net/Mo_Chang?spm=1001.2014.3001.5343
@@ -265,7 +263,7 @@ switch (currentSortType)
 
 ⭐ 如果这个项目对你有帮助，欢迎 Star！
 
-🐛 发现 Bug？[提交 Issue](https://github.com/JunMoChang/Unity-Inventory-System/issues)
+🐛 发现 Bug？[提交 Issue](https://github.com/JunMoChang/Unity-Inventory-System-/issues)
 
-💬 有问题？[开启讨论](https://github.com/JunMoChang/Unity-Inventory-System/discussions)
+💬 有问题？[开启讨论](https://github.com/JunMoChang/Unity-Inventory-System-/discussions)
 
